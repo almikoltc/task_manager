@@ -5,7 +5,7 @@ function App() {
         <div className="App">
             <header className="App-header">
                 <p>
-                    test
+                    react
                 </p>
 
             </header>
